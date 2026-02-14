@@ -1,0 +1,1047 @@
+const imgImage3 = "https://www.figma.com/api/mcp/asset/b81d2941-565d-44f9-8176-10385d0f5fe4";
+const imgImage2 = "https://www.figma.com/api/mcp/asset/63faf5a9-137a-4640-a676-222b6653968f";
+const imgFrame = "https://www.figma.com/api/mcp/asset/dd1d4538-3ea5-431c-9c6b-bf1a75d0ff98";
+const imgAward01 = "https://www.figma.com/api/mcp/asset/18cd71c3-9484-428b-bb9c-0be3e54b06c6";
+const imgSmile = "https://www.figma.com/api/mcp/asset/333ef626-68ce-48f1-96f0-d3df42defaaf";
+const imgBrain03 = "https://www.figma.com/api/mcp/asset/d3007246-e75d-4b4a-9257-0af7850b8694";
+const imgIconSubscriptionTick2 = "https://www.figma.com/api/mcp/asset/16084e21-4d83-4355-9f6b-9c986b7d51b4";
+const imgSmile1 = "https://www.figma.com/api/mcp/asset/db982751-2956-4b38-adba-4083448d1349";
+const imgBrain4 = "https://www.figma.com/api/mcp/asset/1d151a14-265c-42a6-9b4f-f5c809ff989e";
+const imgSmile2 = "https://www.figma.com/api/mcp/asset/8849c6c9-afb5-4658-865b-b884bb2d4ce2";
+const imgBrain5 = "https://www.figma.com/api/mcp/asset/54ee3b4a-f217-47d0-ab30-9d31bb41134b";
+const imgVector11 = "https://www.figma.com/api/mcp/asset/b7a1474a-6755-48ef-b105-51e6e1a96253";
+const imgVector13 = "https://www.figma.com/api/mcp/asset/bd23edc4-0fa0-4c67-bfec-0e432b81b459";
+const imgVector14 = "https://www.figma.com/api/mcp/asset/e075ec35-fce3-44b3-a33f-616ef32f9f9a";
+const imgVector17 = "https://www.figma.com/api/mcp/asset/d2dbcdef-c0a4-4788-8ad3-5bd3d7bbc970";
+const imgWaterfallUp01 = "https://www.figma.com/api/mcp/asset/0f25c02b-0ae6-4971-9e01-db520e81c4f2";
+const imgCoinsDollar = "https://www.figma.com/api/mcp/asset/ba67a6b7-5096-41c5-937c-14751e41719c";
+const imgBrain02 = "https://www.figma.com/api/mcp/asset/0f96ce9c-c6e1-4414-bcbd-32a203368e80";
+const imgLogout01 = "https://www.figma.com/api/mcp/asset/08f3bae5-4a07-4c16-9caf-c5ee81aafbf3";
+const imgVector18 = "https://www.figma.com/api/mcp/asset/d3cb1695-6935-40d7-8771-0d2466bbb076";
+const imgSmile3 = "https://www.figma.com/api/mcp/asset/e1a9313a-1726-418a-85de-285a32df076f";
+const imgBrain6 = "https://www.figma.com/api/mcp/asset/8b8103c2-b147-414c-bf80-2b27f8b7a641";
+const imgVector19 = "https://www.figma.com/api/mcp/asset/5f5d00a6-c4bf-4087-acb2-cc7b3d8d5d22";
+const imgVector20 = "https://www.figma.com/api/mcp/asset/26f9a43f-3056-453e-bb8b-a62e0cba4e9f";
+const imgVector21 = "https://www.figma.com/api/mcp/asset/026f36b5-eefa-435e-93bd-60791c3273d2";
+const imgMultiplicationSign = "https://www.figma.com/api/mcp/asset/e951479d-d675-4eec-9feb-2f27244df646";
+const imgVector12 = "https://www.figma.com/api/mcp/asset/73feae43-098f-4488-b2d3-cf0a116b89a9";
+const imgVector22 = "https://www.figma.com/api/mcp/asset/3f0d59d9-e9cd-410a-b7d8-58c01384b541";
+const imgIconSubscriptionTick3 = "https://www.figma.com/api/mcp/asset/caf8a23b-beb7-4029-a8cd-c69aa2c6efe5";
+const imgVector15 = "https://www.figma.com/api/mcp/asset/0515fbed-4794-4d22-829b-746f44cfc2a3";
+const imgVector23 = "https://www.figma.com/api/mcp/asset/ba5ea108-039a-45b5-b959-8748b2252cf3";
+
+export default function Tft() {
+  return (
+    <div className="bg-[#00102d] relative size-full" data-name="TFT" data-node-id="1:2">
+      <div className="-translate-x-1/2 absolute bg-[#000c23] h-[1020px] left-1/2 top-[10339px] w-[1920px]" data-node-id="6:689" />
+      <div className="-translate-x-1/2 absolute contents left-[calc(50%+0.5px)] top-[9934px]" data-node-id="6:676">
+        <div className="-translate-x-1/2 absolute border border-[rgba(238,238,238,0.1)] border-solid h-[663px] left-[calc(50%+0.5px)] rounded-[15px] top-[9940px] w-[1193px]" data-node-id="6:674" style={{ backgroundImage: "linear-gradient(180deg, rgba(27, 107, 251, 0.5) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(90deg, rgb(0, 12, 35) 0%, rgb(0, 12, 35) 100%)" }} />
+        <div className="-translate-x-1/2 absolute h-[11px] left-1/2 rounded-[99px] top-[9934px] w-[378px]" data-node-id="6:675" style={{ backgroundImage: "linear-gradient(90deg, rgb(27, 107, 251) 0%, rgb(27, 107, 251) 100%), linear-gradient(90deg, rgb(217, 217, 217) 0%, rgb(217, 217, 217) 100%)" }} />
+      </div>
+      <div className="-translate-x-1/2 absolute contents left-1/2 top-0" data-name="Mask group" data-node-id="1:656">
+        <div className="-translate-x-1/2 absolute h-[1080.675px] left-1/2 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[0px_203px] mask-size-[1920px_878px] opacity-40 top-[-203px] w-[1920px]" data-name="image 2" data-node-id="1:655" style={{ maskImage: `url('${imgImage2}')` }}>
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage3} />
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-center left-[calc(50%+0.18px)] top-[210px] w-[788.354px]" data-node-id="1:573">
+        <div className="bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid content-stretch flex gap-[5px] items-center px-[15px] py-[5px] relative rounded-[999px] shrink-0" data-name="Check item text" data-node-id="1:574">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-90 relative shrink-0 text-[18px] text-center text-white" data-node-id="1:580" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Introducing TFT - Exclusive Launch Offer
+          </p>
+          <div className="relative shrink-0 size-[18px]" data-name="Frame" data-node-id="1:594">
+            <img alt="" className="block max-w-none size-full" src={imgFrame} />
+          </div>
+        </div>
+        <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid items-[start] justify-items-[start] leading-[0] relative shrink-0" data-node-id="1:572">
+          <div className="-translate-x-1/2 col-1 font-['Nata_Sans:SemiBold',sans-serif] ml-[393.5px] mt-0 not-italic relative row-1 text-[56px] text-center text-white whitespace-nowrap" data-node-id="1:280">
+            <p className="leading-[64px] mb-0">Learn Trading Like You’re Five.</p>
+            <p className="font-['Nata_Sans:Bold',sans-serif]">
+              <span className="leading-[64px]">{`    `}</span>
+              <span className="leading-[64px] text-[#1b6bfb]">Win</span>
+              <span className="leading-[64px]">{` Like a Pro.`}</span>
+            </p>
+          </div>
+          <div className="col-1 flex items-center justify-center ml-[176.5px] mt-[75px] relative row-1 size-[49.472px]">
+            <div className="flex-none rotate-[-7.66deg]">
+              <div className="relative size-[44px]" data-name="award-01" data-node-id="1:506">
+                <img alt="" className="block max-w-none size-full" src={imgAward01} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic opacity-75 relative shrink-0 text-[20px] text-center text-white w-[710px] whitespace-pre-wrap" data-node-id="1:281" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          <p className="mb-0">Trading doesn’t have to be confusing, intimidating, or full of fake gurus.</p>
+          <p>Trading for Toddlers breaks down trading into simple, visual, step-by-step lessons so anyone can understand, even if you’re starting from zero.</p>
+        </div>
+        <div className="bg-gradient-to-t content-stretch flex from-[#104095] items-center justify-center overflow-clip px-[40px] py-[24px] relative rounded-[519.632px] shadow-[0px_1.039px_2.079px_0px_rgba(9,44,16,0.63)] shrink-0 to-[#1b6bfb]" data-name="Button" data-node-id="1:432">
+          <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[32px] not-italic relative shrink-0 text-[20px] text-center text-white" data-node-id="1:433" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Learn Trading the easy way
+          </p>
+        </div>
+        <div className="content-stretch flex gap-[30px] items-center relative shrink-0 w-full" data-node-id="1:463">
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="1:464">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="1:493">
+              <img alt="" className="block max-w-none size-full" src={imgSmile} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="1:467">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="1:468" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                No jargon. No ego. No overwhelm.
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="1:469">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="1:490">
+              <img alt="" className="block max-w-none size-full" src={imgBrain03} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="1:472">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="1:473" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Just clean logic, clear rules, and repeatable systems.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-center left-1/2 top-[10004px] w-[1192px]" data-node-id="6:566">
+        <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid items-[start] justify-items-[start] leading-[0] relative shrink-0" data-node-id="6:571">
+          <div className="-translate-x-1/2 col-1 font-['Nata_Sans:SemiBold',sans-serif] leading-[64px] ml-[237.5px] mt-0 not-italic relative row-1 text-[56px] text-center text-white whitespace-nowrap" data-node-id="6:572">
+            <p className="mb-0">Start Learning the</p>
+            <p className="text-[#1b6bfb]">{`   Right Way`}</p>
+          </div>
+          <div className="col-1 ml-[71.32px] mt-[77px] relative row-1 size-[48px]" data-name="IconSubscriptionTick2" data-node-id="6:594">
+            <img alt="" className="block max-w-none size-full" src={imgIconSubscriptionTick2} />
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[5px] items-center relative shrink-0" data-node-id="6:622">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic opacity-75 relative shrink-0 text-[20px] text-center text-white w-[710px] whitespace-pre-wrap" data-node-id="6:577" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            You don’t need:
+          </p>
+          <div className="content-stretch flex gap-[30px] items-center relative shrink-0" data-node-id="6:600">
+            <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:601">
+              <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:602">
+                <img alt="" className="block max-w-none size-full" src={imgSmile1} />
+              </div>
+              <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:606">
+                <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:607" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                  A finance degree
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:608">
+              <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:609">
+                <img alt="" className="block max-w-none size-full" src={imgBrain4} />
+              </div>
+              <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:612">
+                <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:613" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                  Years of experience
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:615">
+              <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:616">
+                <img alt="" className="block max-w-none size-full" src={imgBrain4} />
+              </div>
+              <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:619">
+                <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:620" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                  Fancy tools
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="bg-[rgba(27,107,251,0.25)] border border-[#1b6bfb] border-solid content-stretch flex flex-col gap-[10px] items-center justify-center px-[5px] py-[15px] relative rounded-[15px] shrink-0 w-[720px]" data-node-id="6:623">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic relative shrink-0 text-[20px] text-center text-white w-[710px] whitespace-pre-wrap" data-node-id="6:624" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            You just need
+          </p>
+          <div className="content-stretch flex gap-[30px] items-center relative shrink-0" data-node-id="6:625">
+            <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:626">
+              <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:627">
+                <img alt="" className="block max-w-none size-full" src={imgSmile2} />
+              </div>
+              <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:631">
+                <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic relative shrink-0 text-[18px] text-center text-white" data-node-id="6:632" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                  Clear rules
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:633">
+              <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:634">
+                <img alt="" className="block max-w-none size-full" src={imgBrain5} />
+              </div>
+              <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:637">
+                <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic relative shrink-0 text-[18px] text-center text-white" data-node-id="6:638" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                  Simple logic
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:639">
+              <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:640">
+                <img alt="" className="block max-w-none size-full" src={imgBrain5} />
+              </div>
+              <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:643">
+                <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic relative shrink-0 text-[18px] text-center text-white" data-node-id="6:644" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                  Consistency
+                </p>
+              </div>
+            </div>
+          </div>
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic relative shrink-0 text-[20px] text-center text-white w-[710px] whitespace-pre-wrap" data-node-id="6:645" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            And that’s exactly what Trading for Toddlers gives you.
+          </p>
+        </div>
+        <div className="bg-gradient-to-t content-stretch flex from-[#104095] items-center justify-center overflow-clip px-[40px] py-[24px] relative rounded-[519.632px] shadow-[0px_1.039px_2.079px_0px_rgba(9,44,16,0.63)] shrink-0 to-[#1b6bfb]" data-name="Button" data-node-id="6:578">
+          <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[32px] not-italic relative shrink-0 text-[20px] text-center text-white" data-node-id="6:579" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Learn Trading the easy way
+          </p>
+        </div>
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic opacity-75 relative shrink-0 text-[20px] text-center text-white w-[710px] whitespace-pre-wrap" data-node-id="6:646" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Because trading shouldn’t feel harder than it needs to be.
+        </p>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-center left-[calc(50%+0.18px)] not-italic text-center top-[889px] w-[788.354px]" data-node-id="1:657">
+        <div className="content-stretch flex flex-col items-center leading-[64px] relative shrink-0" data-node-id="1:693">
+          <p className="font-['Nata_Sans:SemiBold',sans-serif] relative shrink-0 text-[48px] text-white" data-node-id="1:663">
+            Built for Absolute Beginners
+          </p>
+          <p className="bg-[#1b6bfb] bg-clip-text font-['Dongra_Script:Regular',sans-serif] relative shrink-0 text-[56px]" data-node-id="1:689" style={{ WebkitTextFillColor: "transparent" }}>
+            Yes, even you
+          </p>
+        </div>
+        <div className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] opacity-75 relative shrink-0 text-[20px] text-white whitespace-nowrap" data-node-id="1:668" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          <p className="mb-0">Most trading education assumes you already “know the basics.”</p>
+          <p>We don’t.</p>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-center left-[calc(50%+0.18px)] not-italic text-center top-[1683px] w-[788.354px]" data-node-id="1:776">
+        <div className="content-stretch flex flex-col items-center leading-[64px] relative shrink-0" data-node-id="1:777">
+          <p className="font-['Nata_Sans:SemiBold',sans-serif] relative shrink-0 text-[48px] text-white" data-node-id="1:778">
+            Learn With Visuals
+          </p>
+          <p className="bg-[#1b6bfb] bg-clip-text font-['Dongra_Script:Regular',sans-serif] relative shrink-0 text-[56px]" data-node-id="6:5" style={{ WebkitTextFillColor: "transparent" }}>
+            Not walls of text
+          </p>
+        </div>
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] opacity-75 relative shrink-0 text-[20px] text-white" data-node-id="1:780" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Trading is pattern recognition - not memorization.
+        </p>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-center left-[calc(50%+0.18px)] top-[2336px] w-[788.354px]" data-node-id="6:7">
+        <div className="content-stretch flex flex-col items-center relative shrink-0" data-node-id="6:8">
+          <p className="font-['Nata_Sans:SemiBold',sans-serif] leading-[64px] not-italic relative shrink-0 text-[48px] text-center text-white" data-node-id="6:9">
+            What You’ll Learn Inside
+          </p>
+        </div>
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic opacity-75 relative shrink-0 text-[20px] text-center text-white" data-node-id="6:11" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Trading is pattern recognition - not memorization.
+        </p>
+      </div>
+      <div className="absolute contents left-[calc(25%+5px)] top-[31px]" data-node-id="1:567">
+        <div className="-translate-x-1/2 absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[59px] left-[calc(50%+0.5px)] rounded-[999px] top-[31px] w-[951px]" data-node-id="1:566" />
+        <div className="-translate-x-1/2 absolute h-[30px] left-[calc(50%+0.49px)] top-[46px] w-[50.989px]" data-node-id="1:4">
+          <img alt="" className="block max-w-none size-full" src={imgVector11} />
+        </div>
+        <div className="absolute bg-gradient-to-t content-stretch flex from-[#104095] items-center justify-center left-[calc(62.5%+41px)] px-[18px] py-[14px] rounded-[519.632px] shadow-[0px_1.039px_2.079px_0px_rgba(9,44,16,0.63)] to-[#1b6bfb] top-[41px]" data-node-id="1:521">
+          <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[28px] not-italic relative shrink-0 text-[16px] text-center text-white" data-node-id="1:520" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Learn Trading Today
+          </p>
+        </div>
+        <div className="absolute content-stretch flex gap-[15px] items-center left-[calc(25%+25px)] top-[47px]" data-node-id="1:529">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[14px] text-center text-white" data-node-id="1:262" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            What you learn
+          </p>
+          <div className="h-[16px] relative shrink-0 w-0" data-node-id="1:571">
+            <div className="absolute inset-[0_-1px]">
+              <img alt="" className="block max-w-none size-full" src={imgVector13} />
+            </div>
+          </div>
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[14px] text-center text-white" data-node-id="1:530" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Comparison
+          </p>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[379px] left-[calc(50%+0.5px)] rounded-[15px] top-[1154px] w-[1435px]" data-node-id="1:695" />
+      <p className="-translate-x-1/2 absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] left-1/2 not-italic text-[24px] text-center text-white top-[1187px]" data-node-id="1:706" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        At Trading for Toddlers, we start from scratch:
+      </p>
+      <div className="absolute h-[284px] left-[calc(31.25%-3px)] top-[1249px] w-0" data-node-id="1:708">
+        <div className="absolute inset-[0_-0.5px]">
+          <img alt="" className="block max-w-none size-full" src={imgVector14} />
+        </div>
+      </div>
+      <div className="absolute h-[284px] left-[calc(50%-1px)] top-[1249px] w-0" data-node-id="1:710">
+        <div className="absolute inset-[0_-0.5px]">
+          <img alt="" className="block max-w-none size-full" src={imgVector14} />
+        </div>
+      </div>
+      <div className="absolute flex h-0 items-center justify-center left-[calc(12.5%+3px)] top-[1249px] w-[1432px]">
+        <div className="flex-none rotate-90">
+          <div className="h-[1432px] relative w-0" data-node-id="1:712">
+            <div className="absolute inset-[0_-0.5px]">
+              <img alt="" className="block max-w-none size-full" src={imgVector17} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[284px] left-[calc(68.75%+3px)] top-[1249px] w-0" data-node-id="1:711">
+        <div className="absolute inset-[0_-0.5px]">
+          <img alt="" className="block max-w-none size-full" src={imgVector14} />
+        </div>
+      </div>
+      <div className="absolute content-stretch flex gap-[169px] items-center left-[calc(12.5%+86px)] top-[1301px]" data-node-id="1:731">
+        <div className="content-stretch flex flex-col gap-[22px] items-center relative shrink-0 w-[189px]" data-node-id="1:721">
+          <div className="bg-[rgba(27,107,251,0.15)] content-stretch flex items-center p-[15px] relative rounded-[25px] shrink-0" data-node-id="1:719">
+            <div className="relative shrink-0 size-[55px]" data-name="waterfall-up-01" data-node-id="1:760">
+              <img alt="" className="block max-w-none size-full" src={imgWaterfallUp01} />
+            </div>
+          </div>
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] min-w-full not-italic relative shrink-0 text-[26px] text-center text-white w-[min-content] whitespace-pre-wrap" data-node-id="1:696" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            What a trade actually is
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[22px] items-center relative shrink-0 w-[189px]" data-node-id="1:746">
+          <div className="bg-[rgba(27,107,251,0.15)] content-stretch flex items-center p-[15px] relative rounded-[25px] shrink-0" data-node-id="1:747">
+            <div className="relative shrink-0 size-[55px]" data-name="coins-dollar" data-node-id="1:766">
+              <img alt="" className="block max-w-none size-full" src={imgCoinsDollar} />
+            </div>
+          </div>
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] min-w-full not-italic relative shrink-0 text-[26px] text-center text-white w-[min-content] whitespace-pre-wrap" data-node-id="1:752" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Why price moves
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[22px] items-center relative shrink-0 w-[189px]" data-node-id="1:724">
+          <div className="bg-[rgba(27,107,251,0.15)] content-stretch flex items-center p-[15px] relative rounded-[25px] shrink-0" data-node-id="1:725">
+            <div className="relative shrink-0 size-[55px]" data-name="brain-02" data-node-id="1:770">
+              <img alt="" className="block max-w-none size-full" src={imgBrain02} />
+            </div>
+          </div>
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] min-w-full not-italic relative shrink-0 text-[26px] text-center text-white w-[min-content] whitespace-pre-wrap" data-node-id="1:730" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            How buyers and sellers think
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[22px] items-center relative shrink-0 w-[189px]" data-node-id="1:753">
+          <div className="bg-[rgba(27,107,251,0.15)] content-stretch flex items-center p-[15px] relative rounded-[25px] shrink-0" data-node-id="1:754">
+            <div className="relative shrink-0 size-[55px]" data-name="logout-01" data-node-id="1:773">
+              <img alt="" className="block max-w-none size-full" src={imgLogout01} />
+            </div>
+          </div>
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic relative shrink-0 text-[26px] text-center text-white w-[225px] whitespace-pre-wrap" data-node-id="1:759" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            When to enter, exit, or do nothing
+          </p>
+        </div>
+      </div>
+      <div className="absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[143px] left-[calc(12.5%+3px)] rounded-[15px] top-[1920px] w-[343px]" data-node-id="1:782" />
+      <div className="absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[143px] left-[calc(31.25%+7px)] rounded-[15px] top-[1920px] w-[343px]" data-node-id="1:783" />
+      <div className="absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[143px] left-[calc(50%+11px)] rounded-[15px] top-[1920px] w-[343px]" data-node-id="1:784" />
+      <div className="absolute content-stretch flex flex-col gap-[25px] items-start left-[calc(18.75%+4px)] top-[2646px] w-[465px]" data-node-id="6:13">
+        <div className="bg-[#000c23] border border-[#1b6bfb] border-solid content-stretch flex items-center px-[15px] py-[5px] relative rounded-[999px] shrink-0" data-name="Check item text" data-node-id="6:154">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-90 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:155" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Lesson 01
+          </p>
+        </div>
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] min-w-full not-italic relative shrink-0 text-[32px] text-white w-[min-content] whitespace-pre-wrap" data-node-id="6:56" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Trading Basics (From Zero)
+        </p>
+        <div className="flex h-0 items-center justify-center relative shrink-0 w-full">
+          <div className="flex-none rotate-90 w-full">
+            <div className="h-[465px] relative w-full" data-node-id="6:58">
+              <div className="absolute inset-[0_-1px]">
+                <img alt="" className="block max-w-none size-full" src={imgVector18} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[15px] items-start relative shrink-0" data-node-id="6:57">
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:28">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:29">
+              <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:33">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:34" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                How markets work (stocks, crypto, forex)
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:42">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:43">
+              <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:47">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:48" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Candlesticks explained like building blocks
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:35">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:36">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:39">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:40" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>{`Support & resistance made obvious`}</p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:49">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:50">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:53">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:54" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Trend vs chop (and why most people lose)
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[25px] items-start left-[calc(18.75%+4px)] top-[3576px] w-[465px]" data-node-id="6:162">
+        <div className="bg-[#000c23] border border-[#1b6bfb] border-solid content-stretch flex items-center px-[15px] py-[5px] relative rounded-[999px] shrink-0" data-name="Check item text" data-node-id="6:163">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-90 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:164" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Lesson 03
+          </p>
+        </div>
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] min-w-full not-italic relative shrink-0 text-[32px] text-white w-[min-content] whitespace-pre-wrap" data-node-id="6:165" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Toddler-Proof Strategies
+        </p>
+        <div className="flex h-0 items-center justify-center relative shrink-0 w-full">
+          <div className="flex-none rotate-90 w-full">
+            <div className="h-[465px] relative w-full" data-node-id="6:166">
+              <div className="absolute inset-[0_-1px]">
+                <img alt="" className="block max-w-none size-full" src={imgVector18} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[15px] items-start relative shrink-0" data-node-id="6:167">
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:168">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:169">
+              <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:173">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:174" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Trend continuation plays
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:175">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:176">
+              <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:180">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:181" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Breakout logic that actually works
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:182">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:183">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:186">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:187" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Range trading for slow days
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:188">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:189">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:192">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:193" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                High-probability confirmation rules
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[25px] items-start left-[calc(56.25%+11px)] top-[3111px] w-[465px]" data-node-id="6:61">
+        <div className="bg-[#000c23] border border-[#1b6bfb] border-solid content-stretch flex items-center px-[15px] py-[5px] relative rounded-[999px] shrink-0" data-name="Check item text" data-node-id="6:159">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-90 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:160" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Lesson 02
+          </p>
+        </div>
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] min-w-full not-italic relative shrink-0 text-[32px] text-white w-[min-content] whitespace-pre-wrap" data-node-id="6:62" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>{`Entry & Exit Logic`}</p>
+        <div className="flex h-0 items-center justify-center relative shrink-0 w-full">
+          <div className="flex-none rotate-90 w-full">
+            <div className="h-[465px] relative w-full" data-node-id="6:63">
+              <div className="absolute inset-[0_-1px]">
+                <img alt="" className="block max-w-none size-full" src={imgVector18} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[15px] items-start relative shrink-0" data-node-id="6:64">
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:65">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:66">
+              <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:70">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:71" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                When not to trade (most important lesson)
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:72">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:73">
+              <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:77">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:78" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Simple entry rules you can repeat
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:79">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:80">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:83">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:84" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Stop-loss and take-profit without fear
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:85">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:86">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:89">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:90" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Risk explained in plain English
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[25px] items-start left-[calc(56.25%+11px)] top-[4041px] w-[465px]" data-node-id="6:194">
+        <div className="bg-[#000c23] border border-[#1b6bfb] border-solid content-stretch flex items-center px-[15px] py-[5px] relative rounded-[999px] shrink-0" data-name="Check item text" data-node-id="6:195">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-90 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:196" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Lesson 04
+          </p>
+        </div>
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] min-w-full not-italic relative shrink-0 text-[32px] text-white w-[min-content] whitespace-pre-wrap" data-node-id="6:197" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Psychology (The Silent Killer)
+        </p>
+        <div className="flex h-0 items-center justify-center relative shrink-0 w-full">
+          <div className="flex-none rotate-90 w-full">
+            <div className="h-[465px] relative w-full" data-node-id="6:198">
+              <div className="absolute inset-[0_-1px]">
+                <img alt="" className="block max-w-none size-full" src={imgVector18} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[15px] items-start relative shrink-0" data-node-id="6:199">
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:200">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:201">
+              <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:205">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:206" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                How to stop revenge trading
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:207">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:208">
+              <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:212">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:213" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Why overtrading feels addictive
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:214">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:215">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:218">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:219" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                How to follow rules even after losses
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:220">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:221">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:224">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-white" data-node-id="6:225" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                How professionals think during drawdowns
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[396px] left-[calc(50%+11px)] rounded-[15px] top-[2599px] w-[585px]" data-node-id="6:12" />
+      <div className="absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[396px] left-[calc(50%+11px)] rounded-[15px] top-[3529px] w-[585px]" data-node-id="6:226" />
+      <div className="absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[396px] left-[calc(18.75%+4px)] rounded-[15px] top-[3064px] w-[585px]" data-node-id="6:91" />
+      <div className="absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[396px] left-[calc(18.75%+4px)] rounded-[15px] top-[3994px] w-[585px]" data-node-id="6:227" />
+      <div className="-translate-x-1/2 absolute border border-[rgba(238,238,238,0.1)] border-solid h-[723px] left-[calc(50%+0.5px)] rounded-[15px] top-[4553px] w-[1193px]" data-node-id="6:230" style={{ backgroundImage: "linear-gradient(180deg, rgba(27, 107, 251, 0.5) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(90deg, rgb(0, 12, 35) 0%, rgb(0, 12, 35) 100%)" }} />
+      <div className="absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[143px] left-[calc(68.75%+15px)] rounded-[15px] top-[1920px] w-[343px]" data-node-id="1:785" />
+      <p className="absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] left-[calc(18.75%+3px)] not-italic text-[20px] text-white top-[2077px]" data-node-id="1:787" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        Visual-first
+      </p>
+      <p className="-translate-x-1/2 absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] left-[calc(31.25%+178.5px)] not-italic text-[20px] text-center text-white top-[2077px] w-[189px] whitespace-pre-wrap" data-node-id="1:789" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        Explained with real chart examples
+      </p>
+      <p className="-translate-x-1/2 absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] left-[calc(50%+183px)] not-italic text-[20px] text-center text-white top-[2077px] w-[222px] whitespace-pre-wrap" data-node-id="1:790" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        Broken into small, digestible concepts
+      </p>
+      <p className="-translate-x-1/2 absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] left-[calc(75%+67px)] not-italic text-[20px] text-center text-white top-[2077px] w-[138px] whitespace-pre-wrap" data-node-id="1:791" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        Repeated until it clicks
+      </p>
+      <p className="-translate-x-1/2 absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] left-[calc(12.5%+175px)] not-italic opacity-50 text-[20px] text-center text-white top-[1976px]" data-node-id="1:794" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        ILLUSTRATION HERE
+      </p>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-center left-[calc(50%+0.18px)] not-italic text-center top-[4633px] w-[788.354px]" data-node-id="6:231">
+        <div className="content-stretch flex flex-col items-center leading-[64px] relative shrink-0" data-node-id="6:232">
+          <p className="font-['Nata_Sans:SemiBold',sans-serif] relative shrink-0 text-[48px] text-white" data-node-id="6:233">
+            Designed for Real Life
+          </p>
+          <p className="bg-[#1b6bfb] bg-clip-text font-['Dongra_Script:Regular',sans-serif] relative shrink-0 text-[56px]" data-node-id="6:234" style={{ WebkitTextFillColor: "transparent" }}>
+            Not screenshots
+          </p>
+        </div>
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] opacity-75 relative shrink-0 text-[20px] text-white" data-node-id="6:235" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          This isn’t a “look how much I made” course.
+        </p>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-center left-[calc(50%+0.18px)] top-[7176px] w-[788.354px]" data-node-id="6:392">
+        <div className="content-stretch flex flex-col items-center leading-[64px] not-italic relative shrink-0 text-center" data-node-id="6:393">
+          <p className="font-['Nata_Sans:SemiBold',sans-serif] relative shrink-0 text-[48px] text-white" data-node-id="6:394">
+            Built for Long-Term Skill
+          </p>
+          <p className="bg-[#1b6bfb] bg-clip-text font-['Dongra_Script:Regular',sans-serif] relative shrink-0 text-[56px]" data-node-id="6:395" style={{ WebkitTextFillColor: "transparent" }}>
+            not hype
+          </p>
+        </div>
+        <div className="content-stretch flex gap-[30px] items-center relative shrink-0" data-node-id="6:399">
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:400">
+            <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:401">
+              <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:405">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:406" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                No signals
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:407">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:408">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:411">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:412" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                No copy trading
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:416">
+            <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:417">
+              <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:420">
+              <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:421" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                No dependency
+              </p>
+            </div>
+          </div>
+        </div>
+        <p className="font-['Inter:Regular',sans-serif] font-normal leading-[29.589px] not-italic opacity-75 relative shrink-0 text-[19.021px] text-center text-white tracking-[-0.3043px] w-[691.106px] whitespace-pre-wrap" data-node-id="6:423">
+          Trading for Toddlers teaches you how to think, not what to click.
+        </p>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-center left-[calc(50%+0.18px)] top-[8974px] w-[788.354px]" data-node-id="6:473">
+        <div className="content-stretch flex flex-col items-center relative shrink-0" data-node-id="6:474">
+          <p className="font-['Nata_Sans:SemiBold',sans-serif] leading-[64px] not-italic relative shrink-0 text-[48px] text-center text-white" data-node-id="6:475">
+            Why Trading for Toddlers Is Different
+          </p>
+        </div>
+        <p className="font-['Inter:Regular',sans-serif] font-normal leading-[29.589px] not-italic opacity-75 relative shrink-0 text-[19.021px] text-center text-white tracking-[-0.3043px] w-[691.106px] whitespace-pre-wrap" data-node-id="6:497">
+          Trading for Toddlers teaches you how to think, not what to click.
+        </p>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-start left-[calc(28.13%+46px)] not-italic text-white top-[5505px] w-[444px]" data-node-id="6:267">
+        <p className="font-['Nata_Sans:SemiBold',sans-serif] leading-[64px] min-w-full relative shrink-0 text-[48px] w-[min-content] whitespace-pre-wrap" data-node-id="6:269">{`Tools & Features Included`}</p>
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] opacity-75 relative shrink-0 text-[20px] text-center" data-node-id="6:271" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Everything is designed to reduce decision fatigue.
+        </p>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[11px] left-1/2 rounded-[99px] top-[4547px] w-[378px]" data-node-id="6:236" style={{ backgroundImage: "linear-gradient(90deg, rgb(27, 107, 251) 0%, rgb(27, 107, 251) 100%), linear-gradient(90deg, rgb(217, 217, 217) 0%, rgb(217, 217, 217) 100%)" }} />
+      <div className="absolute bg-[rgba(255,255,255,0.05)] border border-[rgba(238,238,238,0.1)] border-solid h-[248px] left-[calc(25%+5px)] rounded-[15px] top-[4857px] w-[223px]" data-node-id="6:238" />
+      <div className="absolute bg-[rgba(255,255,255,0.05)] border border-[rgba(238,238,238,0.1)] border-solid h-[248px] left-[calc(37.5%+7px)] rounded-[15px] top-[4857px] w-[223px]" data-node-id="6:239" />
+      <div className="absolute bg-[rgba(255,255,255,0.05)] border border-[rgba(238,238,238,0.1)] border-solid h-[248px] left-[calc(50%+9px)] rounded-[15px] top-[4857px] w-[223px]" data-node-id="6:240" />
+      <div className="absolute bg-[rgba(255,255,255,0.05)] border border-[rgba(238,238,238,0.1)] border-solid h-[248px] left-[calc(62.5%+11px)] rounded-[15px] top-[4857px] w-[223px]" data-node-id="6:241" />
+      <p className="-translate-x-1/2 absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[26px] left-[calc(25%+116.5px)] not-italic text-[18px] text-center text-white top-[5046px]" data-node-id="6:243" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        People with jobs
+      </p>
+      <p className="-translate-x-1/2 absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[26px] left-[calc(37.5%+118.5px)] not-italic text-[18px] text-center text-white top-[5046px]" data-node-id="6:245" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        Students
+      </p>
+      <p className="-translate-x-1/2 absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[26px] left-[calc(50%+120.5px)] not-italic text-[18px] text-center text-white top-[5046px]" data-node-id="6:246" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        Side-hustlers
+      </p>
+      <p className="-translate-x-1/2 absolute font-['Commissioner:Medium',sans-serif] font-medium leading-[26px] left-[calc(62.5%+122px)] not-italic text-[18px] text-center text-white top-[5030px] w-[160px] whitespace-pre-wrap" data-node-id="6:247" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+        Beginners who don’t want stress
+      </p>
+      <div className="-translate-x-1/2 absolute content-stretch flex gap-[30px] items-center left-[calc(50%+0.18px)] top-[5170px]" data-node-id="6:249">
+        <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:250">
+          <div className="relative shrink-0 size-[24px]" data-name="smile" data-node-id="6:251">
+            <img alt="" className="block max-w-none size-full" src={imgSmile3} />
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:255">
+            <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:256" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+              No 10-hour screen days.
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[9.177px] items-center relative shrink-0" data-name="Check item text" data-node-id="6:257">
+          <div className="relative shrink-0 size-[24px]" data-name="brain-03" data-node-id="6:258">
+            <img alt="" className="block max-w-none size-full" src={imgBrain6} />
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Text wrap" data-node-id="6:261">
+            <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[28px] not-italic opacity-75 relative shrink-0 text-[18px] text-center text-white" data-node-id="6:262" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+              No fake Lamborghini motivation.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute bg-gradient-to-t content-stretch flex from-[#104095] items-center justify-center left-1/2 overflow-clip px-[40px] py-[24px] rounded-[519.632px] shadow-[0px_1.039px_2.079px_0px_rgba(9,44,16,0.63)] to-[#1b6bfb] top-[5240px]" data-name="Button" data-node-id="6:264">
+        <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[32px] not-italic relative shrink-0 text-[20px] text-center text-white" data-node-id="6:265" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Learn Trading the easy way
+        </p>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[662px] left-[calc(46.88%-51px)] top-[5505px] w-0" data-node-id="6:273">
+        <div className="absolute inset-[0_-0.5px]">
+          <img alt="" className="block max-w-none size-full" src={imgVector19} />
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[83px] left-[calc(46.88%-51px)] top-[5505px] w-0" data-node-id="6:317">
+        <div className="absolute inset-[0_-0.5px]">
+          <img alt="" className="block max-w-none size-full" src={imgVector20} />
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[18px] items-start left-[calc(43.75%+45px)] top-[5505px] w-[671px]" data-node-id="6:302">
+        <div className="bg-[rgba(255,255,255,0.05)] border border-[rgba(238,238,238,0.1)] border-solid content-stretch flex flex-col h-[118px] items-start px-[20px] py-[24px] relative rounded-[15px] shrink-0 w-[671px]" data-node-id="6:285">
+          <div className="content-stretch flex gap-[22px] items-center relative shrink-0" data-node-id="6:278">
+            <div className="bg-gradient-to-t from-[#104095] rounded-[10px] shrink-0 size-[70px] to-[#1b6bfb]" data-node-id="6:276" />
+            <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[26px] not-italic relative shrink-0 text-[24px] text-white" data-node-id="6:277" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+              Beginner-friendly dashboards
+            </p>
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.05)] border border-[rgba(238,238,238,0.1)] border-solid content-stretch flex flex-col h-[118px] items-start px-[20px] py-[24px] relative rounded-[15px] shrink-0 w-[671px]" data-node-id="6:288">
+          <div className="content-stretch flex gap-[22px] items-center relative shrink-0" data-node-id="6:289">
+            <div className="bg-gradient-to-t from-[#104095] rounded-[10px] shrink-0 size-[70px] to-[#1b6bfb]" data-node-id="6:290" />
+            <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[26px] not-italic relative shrink-0 text-[24px] text-white" data-node-id="6:291" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+              Step-by-step lesson paths
+            </p>
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.05)] border border-[rgba(238,238,238,0.1)] border-solid content-stretch flex flex-col h-[118px] items-start px-[20px] py-[24px] relative rounded-[15px] shrink-0 w-[671px]" data-node-id="6:308">
+          <div className="content-stretch flex gap-[22px] items-center relative shrink-0" data-node-id="6:309">
+            <div className="bg-gradient-to-t from-[#104095] rounded-[10px] shrink-0 size-[70px] to-[#1b6bfb]" data-node-id="6:310" />
+            <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[26px] not-italic relative shrink-0 text-[24px] text-white" data-node-id="6:311" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+              Trade examples with explanations
+            </p>
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.05)] border border-[rgba(238,238,238,0.1)] border-solid content-stretch flex flex-col h-[118px] items-start px-[20px] py-[24px] relative rounded-[15px] shrink-0 w-[671px]" data-node-id="6:298">
+          <div className="content-stretch flex gap-[22px] items-center relative shrink-0" data-node-id="6:299">
+            <div className="bg-gradient-to-t from-[#104095] rounded-[10px] shrink-0 size-[70px] to-[#1b6bfb]" data-node-id="6:300" />
+            <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[26px] not-italic relative shrink-0 text-[24px] text-white" data-node-id="6:301" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+              Risk calculators made simple
+            </p>
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.05)] border border-[rgba(238,238,238,0.1)] border-solid content-stretch flex flex-col h-[118px] items-start px-[20px] py-[24px] relative rounded-[15px] shrink-0 w-[671px]" data-node-id="6:312">
+          <div className="content-stretch flex gap-[22px] items-center relative shrink-0" data-node-id="6:313">
+            <div className="bg-gradient-to-t from-[#104095] rounded-[10px] shrink-0 size-[70px] to-[#1b6bfb]" data-node-id="6:314" />
+            <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[26px] not-italic relative shrink-0 text-[24px] text-white" data-node-id="6:315" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+              Checklists you can actually follow
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-gradient-to-t from-[#104095] left-[43.75%] rounded-[5.484px] size-[17px] to-[#1b6bfb] top-[5556px]" data-node-id="6:316" />
+      <div className="-translate-x-1/2 absolute bottom-[4883.15px] content-stretch flex flex-col gap-[15.851px] items-center left-1/2 not-italic text-center text-white w-[887.66px] whitespace-pre-wrap" data-node-id="6:318">
+        <p className="font-['Nata_Sans:SemiBold',sans-serif] leading-[64px] min-w-full relative shrink-0 text-[48px] w-[min-content]" data-node-id="6:321">
+          Learn → Practice → Repeat
+        </p>
+        <p className="font-['Inter:Regular',sans-serif] font-normal leading-[29.589px] opacity-75 relative shrink-0 text-[19.021px] tracking-[-0.3043px] w-[691.106px]" data-node-id="6:322">
+          You won’t be thrown into live trading blind. Our learning flow:
+        </p>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[15px] items-center left-[calc(18.75%+4px)] top-[6526px] w-[586px]" data-node-id="6:380">
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic relative shrink-0 text-[24px] text-center text-white w-full whitespace-pre-wrap" data-node-id="6:374" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Understand the concept
+        </p>
+        <div className="bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[143px] rounded-[15px] shrink-0 w-full" data-node-id="6:364" />
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[15px] items-center left-[calc(18.75%+4px)] top-[6736px] w-[586px]" data-node-id="6:382">
+        <div className="bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[143px] rounded-[15px] shrink-0 w-full" data-node-id="6:383" />
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic relative shrink-0 text-[24px] text-white" data-node-id="6:388" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Practice without pressure
+        </p>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[15px] items-center left-[calc(50%+10px)] top-[6526px] w-[586px]" data-node-id="6:381">
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic relative shrink-0 text-[24px] text-center text-white w-full whitespace-pre-wrap" data-node-id="6:376" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          See real examples
+        </p>
+        <div className="bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[143px] rounded-[15px] shrink-0 w-full" data-node-id="6:373" />
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[15px] items-center left-[calc(50%+10px)] top-[6736px] w-[586px]" data-node-id="6:385">
+        <div className="bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[143px] rounded-[15px] shrink-0 w-full" data-node-id="6:386" />
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] not-italic relative shrink-0 text-[24px] text-white" data-node-id="6:390" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Apply with confidence
+        </p>
+      </div>
+      <div className="-translate-x-1/2 absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[432px] left-[calc(50%+0.5px)] rounded-[15px] top-[7470px] w-[1193px]" data-node-id="6:425" />
+      <div className="-translate-x-1/2 absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[432px] left-[calc(50%+0.5px)] rounded-[15px] top-[7928px] w-[1193px]" data-node-id="6:462" />
+      <div className="-translate-x-1/2 absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid h-[432px] left-[calc(50%+0.5px)] rounded-[15px] top-[8386px] w-[1193px]" data-node-id="6:467" />
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-start left-[calc(34.38%+8px)] not-italic text-white top-[7524px] w-[508px] whitespace-pre-wrap" data-node-id="6:426">
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] relative shrink-0 text-[24px] w-full" data-node-id="6:428" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Framework
+        </p>
+        <ul className="block font-['Inter:Regular',sans-serif] font-normal leading-[0] list-disc opacity-75 relative shrink-0 text-[19.021px] tracking-[-0.3043px] w-full" data-node-id="6:450">
+          <li className="mb-0 ms-[28.5315px]">
+            <span className="leading-[29.589px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+          </li>
+          <li className="mb-0 ms-[28.5315px]">
+            <span className="leading-[29.589px]">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span>
+          </li>
+          <li className="mb-0 ms-[28.5315px]">
+            <span className="leading-[29.589px]">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span>
+          </li>
+          <li className="ms-[28.5315px]">
+            <span className="leading-[29.589px]">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span>
+          </li>
+        </ul>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-start left-[calc(34.38%+8px)] not-italic text-white top-[8042px] w-[508px] whitespace-pre-wrap" data-node-id="6:463">
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] relative shrink-0 text-[24px] w-full" data-node-id="6:464" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Process
+        </p>
+        <ul className="block font-['Inter:Regular',sans-serif] font-normal leading-[0] list-disc opacity-75 relative shrink-0 text-[19.021px] tracking-[-0.3043px] w-full" data-node-id="6:465">
+          <li className="mb-0 ms-[28.5315px]">
+            <span className="leading-[29.589px]">Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</span>
+          </li>
+          <li className="ms-[28.5315px]">
+            <span className="leading-[29.589px]">Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span>
+          </li>
+        </ul>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[25px] items-start left-[calc(34.38%+8px)] not-italic text-white top-[8455px] w-[508px] whitespace-pre-wrap" data-node-id="6:468">
+        <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[32px] relative shrink-0 text-[24px] w-full" data-node-id="6:469" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+          Clarity in your trading
+        </p>
+        <div className="font-['Inter:Regular',sans-serif] font-normal leading-[0] opacity-75 relative shrink-0 text-[19.021px] tracking-[-0.3043px] w-full" data-node-id="6:470">
+          <p className="leading-[29.589px] mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <ul className="list-disc">
+            <li className="mb-0 ms-[28.5315px]">
+              <span className="leading-[29.589px]">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span>
+            </li>
+            <li className="mb-0 ms-[28.5315px]">
+              <span className="leading-[29.589px]">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span>
+            </li>
+            <li className="ms-[28.5315px]">
+              <span className="leading-[29.589px]">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div className="absolute border border-[rgba(238,238,238,0.1)] border-solid h-[352px] left-[calc(50%+58px)] rounded-[15px] top-[7510px] w-[498px]" data-node-id="6:459" style={{ backgroundImage: "linear-gradient(180deg, rgba(27, 107, 251, 0) 0%, rgba(27, 107, 251, 0.2) 100%), linear-gradient(90deg, rgb(0, 12, 35) 0%, rgb(0, 12, 35) 100%)" }} />
+      <div className="absolute border border-[rgba(238,238,238,0.1)] border-solid h-[352px] left-[calc(50%+58px)] rounded-[15px] top-[7968px] w-[498px]" data-node-id="6:466" style={{ backgroundImage: "linear-gradient(180deg, rgba(27, 107, 251, 0) 0%, rgba(27, 107, 251, 0.2) 100%), linear-gradient(90deg, rgb(0, 12, 35) 0%, rgb(0, 12, 35) 100%)" }} />
+      <div className="absolute border border-[rgba(238,238,238,0.1)] border-solid h-[352px] left-[calc(50%+58px)] rounded-[15px] top-[8426px] w-[498px]" data-node-id="6:471" style={{ backgroundImage: "linear-gradient(180deg, rgba(27, 107, 251, 0) 0%, rgba(27, 107, 251, 0.2) 100%), linear-gradient(90deg, rgb(0, 12, 35) 0%, rgb(0, 12, 35) 100%)" }} />
+      <div className="absolute bg-[#000c23] border border-[rgba(238,238,238,0.1)] border-solid content-stretch flex flex-col h-[466px] items-start left-[calc(18.75%+4px)] px-[47px] py-[45px] rounded-[15px] top-[9214px] w-[465px]" data-node-id="6:555">
+        <div className="content-stretch flex flex-col gap-[30px] items-center relative shrink-0 w-[370px]" data-node-id="6:554">
+          <p className="font-['Nata_Sans:SemiBold',sans-serif] leading-[36px] min-w-full not-italic relative shrink-0 text-[34px] text-center text-white w-[min-content] whitespace-pre-wrap" data-node-id="6:549">
+            Other Trading Courses
+          </p>
+          <div className="h-0 relative shrink-0 w-[359.5px]" data-node-id="6:550">
+            <div className="absolute inset-[-0.5px_0]">
+              <img alt="" className="block max-w-none size-full" src={imgVector21} />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[22.5px] items-start relative shrink-0 w-full" data-node-id="6:528">
+            <div className="content-stretch flex gap-[9px] items-center justify-center relative shrink-0" data-node-id="6:529">
+              <div className="relative shrink-0 size-[36px]" data-name="multiplication-sign" data-node-id="6:560">
+                <img alt="" className="block max-w-none size-full" src={imgMultiplicationSign} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[36px] not-italic relative shrink-0 text-[27px] text-white tracking-[-0.27px]" data-node-id="6:532" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Complex jargon
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[9px] items-center justify-center relative shrink-0" data-node-id="6:533">
+              <div className="relative shrink-0 size-[36px]" data-name="multiplication-sign" data-node-id="6:562">
+                <img alt="" className="block max-w-none size-full" src={imgMultiplicationSign} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[36px] not-italic relative shrink-0 text-[27px] text-white tracking-[-0.27px]" data-node-id="6:536" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Ego-driven
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[9px] items-center justify-center relative shrink-0" data-node-id="6:537">
+              <div className="relative shrink-0 size-[36px]" data-name="multiplication-sign" data-node-id="6:564">
+                <img alt="" className="block max-w-none size-full" src={imgMultiplicationSign} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[36px] not-italic relative shrink-0 text-[27px] text-white tracking-[-0.27px]" data-node-id="6:540" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Theory-heavy
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[9px] items-center justify-center relative shrink-0" data-node-id="6:541">
+              <div className="relative shrink-0 size-[36px]" data-name="multiplication-sign" data-node-id="6:558">
+                <img alt="" className="block max-w-none size-full" src={imgMultiplicationSign} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[36px] not-italic relative shrink-0 text-[27px] text-white tracking-[-0.27px]" data-node-id="6:544" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Confusing indicators
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[9px] items-center justify-center relative shrink-0" data-node-id="6:545">
+              <div className="relative shrink-0 size-[36px]" data-name="multiplication-sign" data-node-id="6:556">
+                <img alt="" className="block max-w-none size-full" src={imgMultiplicationSign} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[36px] not-italic relative shrink-0 text-[27px] text-white tracking-[-0.27px]" data-node-id="6:548" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Fear-based selling
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[#1b6bfb] content-stretch flex flex-col items-start left-[calc(43.75%+9px)] px-[101px] py-[60px] rounded-[15px] top-[9138px] w-[708px]" data-node-id="6:553">
+        <div className="content-stretch flex flex-col gap-[30px] items-center justify-center relative shrink-0 w-[506px]" data-node-id="6:552">
+          <div className="h-[78px] relative shrink-0 w-[132.573px]" data-node-id="6:500">
+            <img alt="" className="block max-w-none size-full" src={imgVector12} />
+          </div>
+          <div className="h-0 relative shrink-0 w-[506px]" data-node-id="6:551">
+            <div className="absolute inset-[-0.5px_0]">
+              <img alt="" className="block max-w-none size-full" src={imgVector22} />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0" data-node-id="6:502">
+            <div className="content-stretch flex gap-[12px] items-center justify-center relative shrink-0" data-node-id="6:503">
+              <div className="relative shrink-0 size-[48px]" data-name="IconSubscriptionTick2" data-node-id="6:504">
+                <img alt="" className="block max-w-none size-full" src={imgIconSubscriptionTick3} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[48px] not-italic relative shrink-0 text-[36px] text-white tracking-[-0.36px]" data-node-id="6:506" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Plain English
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[12px] items-center justify-center relative shrink-0" data-node-id="6:507">
+              <div className="relative shrink-0 size-[48px]" data-name="IconSubscriptionTick2" data-node-id="6:508">
+                <img alt="" className="block max-w-none size-full" src={imgIconSubscriptionTick3} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[48px] not-italic relative shrink-0 text-[36px] text-white tracking-[-0.36px]" data-node-id="6:510" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Beginner-first
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[12px] items-center justify-center relative shrink-0" data-node-id="6:511">
+              <div className="relative shrink-0 size-[48px]" data-name="IconSubscriptionTick2" data-node-id="6:512">
+                <img alt="" className="block max-w-none size-full" src={imgIconSubscriptionTick3} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[48px] not-italic relative shrink-0 text-[36px] text-white tracking-[-0.36px]" data-node-id="6:514" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>{`Practical & visual`}</p>
+            </div>
+            <div className="content-stretch flex gap-[12px] items-center justify-center relative shrink-0" data-node-id="6:515">
+              <div className="relative shrink-0 size-[48px]" data-name="IconSubscriptionTick2" data-node-id="6:516">
+                <img alt="" className="block max-w-none size-full" src={imgIconSubscriptionTick3} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[48px] not-italic relative shrink-0 text-[36px] text-white tracking-[-0.36px]" data-node-id="6:518" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Clean price action
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[12px] items-center justify-center relative shrink-0" data-node-id="6:519">
+              <div className="relative shrink-0 size-[48px]" data-name="IconSubscriptionTick2" data-node-id="6:520">
+                <img alt="" className="block max-w-none size-full" src={imgIconSubscriptionTick3} />
+              </div>
+              <p className="font-['Commissioner:SemiBold',sans-serif] font-semibold leading-[48px] not-italic relative shrink-0 text-[36px] text-white tracking-[-0.36px]" data-node-id="6:522" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+                Confidence-based learning
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[15px] items-center left-[calc(37.5%+23px)] top-[10655px] w-[430px]" data-node-id="6:678">
+        <div className="h-[58px] relative shrink-0 w-[98.58px]" data-node-id="6:687">
+          <img alt="" className="block max-w-none size-full" src={imgVector15} />
+        </div>
+        <div className="content-stretch flex gap-[15px] items-center justify-center relative shrink-0" data-node-id="6:699">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[20px] not-italic opacity-75 relative shrink-0 text-[14px] text-center text-white" data-node-id="6:694" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>{`Privacy Policy `}</p>
+          <div className="h-[16px] relative shrink-0 w-0" data-node-id="6:700">
+            <div className="absolute inset-[0_-1px]">
+              <img alt="" className="block max-w-none size-full" src={imgVector13} />
+            </div>
+          </div>
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[20px] not-italic opacity-75 relative shrink-0 text-[14px] text-center text-white" data-node-id="6:696" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>{` Terms & Conditions`}</p>
+          <div className="h-[16px] relative shrink-0 w-0" data-node-id="6:702">
+            <div className="absolute inset-[0_-1px]">
+              <img alt="" className="block max-w-none size-full" src={imgVector13} />
+            </div>
+          </div>
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[20px] not-italic opacity-75 relative shrink-0 text-[14px] text-center text-white" data-node-id="6:697" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Text Message Policy
+          </p>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[30px] items-start left-[calc(18.75%+4px)] top-[10808px] w-[1192px]" data-node-id="6:711">
+        <div className="h-0 relative shrink-0 w-[1192px]" data-node-id="6:703">
+          <div className="absolute inset-[-0.5px_0]">
+            <img alt="" className="block max-w-none size-full" src={imgVector23} />
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[10px] items-start not-italic opacity-75 relative shrink-0 text-white w-full whitespace-pre-wrap" data-node-id="6:704">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium leading-[20px] relative shrink-0 text-[16px] w-full" data-node-id="6:705" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>{`Important Earnings & Legal Disclaimer`}</p>
+          <div className="font-['Inter:Regular',sans-serif] font-normal leading-[0] opacity-75 relative shrink-0 text-[14px] tracking-[-0.224px] w-full" data-node-id="6:706">
+            <p className="leading-[20px] mb-0">Any earnings or income examples shown by Trading for Toddlers™ are aspirational only and represent non-typical results. They are not a promise or guarantee of income or success.</p>
+            <p className="leading-[20px] mb-0">Individual results will vary and depend on factors such as:</p>
+            <ul className="list-disc mb-0">
+              <li className="mb-0 ms-[21px]">
+                <span className="leading-[20px]">Your experience and trading skill</span>
+              </li>
+              <li className="mb-0 ms-[21px]">
+                <span className="leading-[20px]">Effort, discipline, and consistency</span>
+              </li>
+              <li className="mb-0 ms-[21px]">
+                <span className="leading-[20px]">Market conditions</span>
+              </li>
+              <li className="mb-0 ms-[21px]">
+                <span className="leading-[20px]">Risk management and decision-making</span>
+              </li>
+              <li className="ms-[21px]">
+                <span className="leading-[20px]">Normal and unforeseen risks involved in trading</span>
+              </li>
+            </ul>
+            <p className="leading-[20px] mb-0">Trading for Toddlers™ does not provide financial advice. You are solely responsible for your own trading decisions and outcomes. Always perform your own due diligence and risk assessment before participating in any trading activity.</p>
+            <p className="leading-[20px]">{`By using our products or services, you agree that Trading for Toddlers™ and its representatives are not liable for your trading results or decisions. Please review our Terms & Conditions for full details and limitations.`}</p>
+          </div>
+        </div>
+        <div className="h-0 relative shrink-0 w-[1192px]" data-node-id="6:712">
+          <div className="absolute inset-[-0.5px_0]">
+            <img alt="" className="block max-w-none size-full" src={imgVector23} />
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[10px] items-start leading-[20px] not-italic opacity-75 relative shrink-0 text-white w-full whitespace-pre-wrap" data-node-id="6:708">
+          <p className="font-['Commissioner:Medium',sans-serif] font-medium relative shrink-0 text-[16px] w-full" data-node-id="6:709" style={{ fontVariationSettings: "'FLAR' 0, 'VOLM' 0" }}>
+            Questions?
+          </p>
+          <div className="font-['Inter:Regular',sans-serif] font-normal opacity-75 relative shrink-0 text-[14px] tracking-[-0.224px] w-full" data-node-id="6:710">
+            <p className="mb-0">If you’re unsure whether Trading for Toddlers™ is right for you, feel free to reach out.</p>
+            <p>We’re happy to discuss your goals and explain how the program works.</p>
+          </div>
+        </div>
+        <div className="h-0 relative shrink-0 w-[1192px]" data-node-id="6:713">
+          <div className="absolute inset-[-0.5px_0]">
+            <img alt="" className="block max-w-none size-full" src={imgVector23} />
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col items-start opacity-75 relative shrink-0 w-full" data-node-id="6:714">
+          <div className="content-stretch flex font-['Inter:Regular',sans-serif] font-normal items-start justify-between leading-[20px] not-italic relative shrink-0 text-[14px] text-white tracking-[-0.224px] w-full" data-node-id="6:718">
+            <p className="opacity-75 relative shrink-0" data-node-id="6:716">
+              All rights reserved. Trading for Toddlers™
+            </p>
+            <p className="opacity-75 relative shrink-0" data-node-id="6:717">
+              © 2025 StevenRTrades™
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
