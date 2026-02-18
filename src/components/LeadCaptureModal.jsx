@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 import { useGirlyBioTracker } from '../hooks/useGirlyBioTracker'
+import { supabase } from '../lib/supabase'
 
 function LeadCaptureModal({
   isOpen,
@@ -279,12 +280,20 @@ function LeadCaptureModal({
     } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(formData.email)) {
       newErrors.email = 'Enter a valid email'
     }
-    if (!formData.phone.trim()) newErrors.phone = 'Phone is required'
+    const phoneInput = formData.phone.trim()
+    const digitsOnly = phoneInput.replace(/\D/g, '')
+    if (!phoneInput) {
+      newErrors.phone = 'Phone is required'
+    } else if (!/^[+\d\s\-(). ]+$/.test(phoneInput)) {
+      newErrors.phone = 'Phone number cannot contain letters'
+    } else if (digitsOnly.length < 5 || digitsOnly.length > 15) {
+      newErrors.phone = 'Enter a valid phone number'
+    }
     setErrors(newErrors)
     return Object.keys(newErrors).length === 0
   }
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault()
 
     if (!validate()) {
@@ -298,6 +307,50 @@ function LeadCaptureModal({
     // Track form submission
     const timeToSubmit = formStartTime ? (Date.now() - formStartTime) / 1000 : 0
     tracker?.trackFormSubmit('lead-capture-form', ['name', 'email', 'phone'], timeToSubmit)
+
+    // Save lead to Supabase
+    try {
+      const { error } = await supabase.from('leads').insert([{
+        name: formData.name,
+        email: formData.email,
+        phone: `${formData.countryCode} ${formData.phone}`,
+        source: 'vsl-page',
+      }])
+      if (error) console.error('Supabase insert error:', error)
+    } catch (err) {
+      console.error('Failed to save lead:', err)
+    }
+
+    // Send Discord notification
+    const webhookUrl = import.meta.env.VITE_DISCORD_WEBHOOK_URL
+    if (webhookUrl) {
+      try {
+        await fetch(webhookUrl, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            username: 'TFT Lead Bot',
+            avatar_url: 'https://tjynencrgyhquibjbdqk.supabase.co/storage/v1/object/public/vsl-videos/tft-discord-avatar.png',
+            embeds: [{
+              title: '🔥 New Lead — Trading for Toddlers',
+              description: 'Someone just opted in through the VSL page.',
+              color: 1797115,
+              fields: [
+                { name: '👤 Name', value: formData.name, inline: true },
+                { name: '📧 Email', value: formData.email, inline: true },
+                { name: '📱 Phone', value: `${formData.countryCode} ${formData.phone}`, inline: true },
+                { name: '📍 Source', value: 'VSL Page', inline: true },
+                { name: '🕐 Time', value: new Date().toLocaleString('en-US', { timeZone: 'America/New_York', dateStyle: 'medium', timeStyle: 'short' }) + ' ET', inline: true },
+              ],
+              footer: { text: 'Trading for Toddlers • Lead Capture' },
+              timestamp: new Date().toISOString(),
+            }],
+          }),
+        })
+      } catch (err) {
+        console.error('Failed to send Discord notification:', err)
+      }
+    }
 
     sessionStorage.setItem('tft_lead', JSON.stringify(formData))
     if (onSubmit) onSubmit(formData)
