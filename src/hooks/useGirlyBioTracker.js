@@ -5,20 +5,23 @@ import GirlyBioTracker from '../lib/girly-bio-tracker'
  * React hook for Girly.bio tracking
  */
 export function useGirlyBioTracker() {
-  const trackerRef = useRef(null)
+  // TEMPORARILY DISABLED - Causes CORS errors that clutter console
+  return null
 
-  useEffect(() => {
-    if (!trackerRef.current) {
-      trackerRef.current = new GirlyBioTracker({
-        apiUrl: import.meta.env.VITE_GIRLY_BIO_API_URL,
-        externalId: import.meta.env.VITE_GIRLY_BIO_EXTERNAL_ID,
-        apiKey: import.meta.env.VITE_GIRLY_BIO_API_KEY,
-        debug: import.meta.env.VITE_APP_ENV === 'development',
-      })
-    }
-  }, [])
+  // const trackerRef = useRef(null)
 
-  return trackerRef.current
+  // useEffect(() => {
+  //   if (!trackerRef.current) {
+  //     trackerRef.current = new GirlyBioTracker({
+  //       apiUrl: import.meta.env.VITE_GIRLY_BIO_API_URL,
+  //       externalId: import.meta.env.VITE_GIRLY_BIO_EXTERNAL_ID,
+  //       apiKey: import.meta.env.VITE_GIRLY_BIO_API_KEY,
+  //       debug: import.meta.env.VITE_APP_ENV === 'development',
+  //     })
+  //   }
+  // }, [])
+
+  // return trackerRef.current
 }
 
 /**

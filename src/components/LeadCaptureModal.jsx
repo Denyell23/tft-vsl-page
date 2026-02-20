@@ -310,15 +310,30 @@ function LeadCaptureModal({
 
     // Save lead to Supabase
     try {
-      const { error } = await supabase.from('leads').insert([{
+      console.log('Attempting to save lead to Supabase...', {
+        supabaseConfigured: !!supabase,
+        hasUrl: !!import.meta.env.VITE_SUPABASE_URL,
+        hasKey: !!import.meta.env.VITE_SUPABASE_ANON_KEY
+      })
+
+      const { data, error } = await supabase.from('leads').insert([{
         name: formData.name,
         email: formData.email,
         phone: `${formData.countryCode} ${formData.phone}`,
         source: 'vsl-page',
       }])
-      if (error) console.error('Supabase insert error:', error)
+
+      if (error) {
+        console.error('Supabase insert error:', error)
+        alert(`Failed to save lead: ${error.message}. Please contact support.`)
+        return
+      }
+
+      console.log('Lead saved successfully:', data)
     } catch (err) {
       console.error('Failed to save lead:', err)
+      alert(`Error saving lead: ${err.message}. Please contact support.`)
+      return
     }
 
     // Send Discord notification
